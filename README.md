@@ -232,7 +232,3 @@ docker run -d -p 8000:8000 --name gas-station gas-station
 ## License
 
 MIT License
-
-## Contributing
-
-ยินดีรับ Pull Requests! กรุณาสร้าง branch ใหม่สำหรับ feature ที่ต้องการเพิ่ม
